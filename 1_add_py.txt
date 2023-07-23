@@ -1,0 +1,10 @@
+# This program is for adding two nos taken from user
+name = input('What is your name? ')
+print('Hello ' + name)
+first_no. = input('Your first no. to add ')
+print('You provided the first no. as ' + first_no.)
+second_no. = input('Your second no. to add ')
+print('You provided the second no. as ' + second_no.)
+print('and')
+sum = first_no. + second_no.
+print('The sum of ' + first_no. '&' + second_no. = Sum)
